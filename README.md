@@ -3,7 +3,7 @@ TYPO3.autodiscover
 
 Add autodiscovery for the mailserver to domain records.
 
-Download:
+Download (soon):
 - https://typo3.org/extensions/repository/view/autodiscover
 
 Based on
